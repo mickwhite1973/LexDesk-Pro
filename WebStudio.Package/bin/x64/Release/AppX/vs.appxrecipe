@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MICKS-LENOVO</Machine>
+    <WindowsUser>Whitey</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>LexWhiteStudiosPTYLTD.LexDeskPro</PackageIdentityName>
+    <PackageIdentityPublisher>CN=3DF9F6EF-AF5B-470C-A7EB-160FFB4116B8</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\bin\x64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>36A5ABCC48A2B943466490BD06E1F411B92DB58F76BA64FD89B268163B911273</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>LexWhiteStudiosPTYLTD.LexDeskPro_1.0.0.0_x64__m919zkfn0105p</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>LexWhiteStudiosPTYLTD.LexDeskPro_m919zkfn0105p!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>LexWhiteStudiosPTYLTD.LexDeskPro</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=3DF9F6EF-AF5B-470C-A7EB-160FFB4116B8</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\bin\x64\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-10-07T00:37:36.161</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\build\..\runtimes\win-x64\native_uap\Microsoft.Web.WebView2.Core.dll">
+      <PackagePath>Microsoft.Web.WebView2.Core.dll</PackagePath>
+      <Modified>2026-02-08T09:51:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\lib\Microsoft.Web.WebView2.Core.winmd">
+      <PackagePath>Microsoft.Web.WebView2.Core.winmd</PackagePath>
+      <Modified>2026-02-08T09:51:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\LargeTile.scale-100.png">
+      <PackagePath>Images\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\LargeTile.scale-125.png">
+      <PackagePath>Images\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\LargeTile.scale-150.png">
+      <PackagePath>Images\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\LargeTile.scale-200.png">
+      <PackagePath>Images\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\LargeTile.scale-400.png">
+      <PackagePath>Images\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SmallTile.scale-100.png">
+      <PackagePath>Images\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SmallTile.scale-125.png">
+      <PackagePath>Images\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SmallTile.scale-150.png">
+      <PackagePath>Images\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SmallTile.scale-200.png">
+      <PackagePath>Images\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SmallTile.scale-400.png">
+      <PackagePath>Images\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SplashScreen.scale-100.png">
+      <PackagePath>Images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SplashScreen.scale-125.png">
+      <PackagePath>Images\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SplashScreen.scale-150.png">
+      <PackagePath>Images\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.356</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SplashScreen.scale-400.png">
+      <PackagePath>Images\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square150x150Logo.scale-100.png">
+      <PackagePath>Images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square150x150Logo.scale-125.png">
+      <PackagePath>Images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square150x150Logo.scale-150.png">
+      <PackagePath>Images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square150x150Logo.scale-400.png">
+      <PackagePath>Images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.419</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.scale-100.png">
+      <PackagePath>Images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:33.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.scale-125.png">
+      <PackagePath>Images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:33.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.scale-150.png">
+      <PackagePath>Images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.scale-400.png">
+      <PackagePath>Images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:32:34.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\StoreLogo.scale-100.png">
+      <PackagePath>Images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\StoreLogo.scale-125.png">
+      <PackagePath>Images\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\StoreLogo.scale-150.png">
+      <PackagePath>Images\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\StoreLogo.scale-200.png">
+      <PackagePath>Images\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\StoreLogo.scale-400.png">
+      <PackagePath>Images\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Wide310x150Logo.scale-100.png">
+      <PackagePath>Images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Wide310x150Logo.scale-125.png">
+      <PackagePath>Images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Wide310x150Logo.scale-150.png">
+      <PackagePath>Images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Wide310x150Logo.scale-400.png">
+      <PackagePath>Images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-09-20T04:19:34.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\WebStudio.ico">
+      <PackagePath>WebStudio.ico</PackagePath>
+      <Modified>2026-05-03T05:41:57.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\bin\x64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2026-10-07T00:37:36.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\.nuget\packages\communitytoolkit.winui.notifications\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.Notifications.dll">
+      <PackagePath>Web Studio Browser\CommunityToolkit.WinUI.Notifications.dll</PackagePath>
+      <Modified>2021-11-18T21:56:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\.nuget\packages\system.codedom\10.0.3\lib\net8.0\System.CodeDom.dll">
+      <PackagePath>Web Studio Browser\System.CodeDom.dll</PackagePath>
+      <Modified>2026-01-25T17:27:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\.nuget\packages\system.management\10.0.3\lib\net8.0\System.Management.dll">
+      <PackagePath>Web Studio Browser\System.Management.dll</PackagePath>
+      <Modified>2026-01-25T17:33:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\runtimes\win-arm64\native\WebView2Loader.dll">
+      <PackagePath>Web Studio Browser\runtimes\win-arm64\native\WebView2Loader.dll</PackagePath>
+      <Modified>2026-02-08T09:50:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\runtimes\win-x64\native\WebView2Loader.dll">
+      <PackagePath>Web Studio Browser\runtimes\win-x64\native\WebView2Loader.dll</PackagePath>
+      <Modified>2026-02-08T09:51:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\runtimes\win-x86\native\WebView2Loader.dll">
+      <PackagePath>Web Studio Browser\runtimes\win-x86\native\WebView2Loader.dll</PackagePath>
+      <Modified>2026-02-08T09:51:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\.nuget\packages\system.management\10.0.3\runtimes\win\lib\net8.0\System.Management.dll">
+      <PackagePath>Web Studio Browser\runtimes\win\lib\net8.0\System.Management.dll</PackagePath>
+      <Modified>2026-01-25T17:33:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.26100.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
+      <PackagePath>Web Studio Browser\Microsoft.Windows.SDK.NET.dll</PackagePath>
+      <Modified>2024-11-11T17:23:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.26100.57\lib\net8.0\WinRT.Runtime.dll">
+      <PackagePath>Web Studio Browser\WinRT.Runtime.dll</PackagePath>
+      <Modified>2024-11-11T17:23:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\lib_manual\netcoreapp3.0\Microsoft.Web.WebView2.Core.dll">
+      <PackagePath>Web Studio Browser\Microsoft.Web.WebView2.Core.dll</PackagePath>
+      <Modified>2026-02-08T09:50:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\lib_manual\netcoreapp3.0\Microsoft.Web.WebView2.WinForms.dll">
+      <PackagePath>Web Studio Browser\Microsoft.Web.WebView2.WinForms.dll</PackagePath>
+      <Modified>2026-02-08T09:51:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\lib_manual\net5.0-windows10.0.17763.0\Microsoft.Web.WebView2.Wpf.dll">
+      <PackagePath>Web Studio Browser\Microsoft.Web.WebView2.Wpf.dll</PackagePath>
+      <Modified>2026-02-08T09:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\Web Studio Browser\bin\x64\Release\net8.0-windows10.0.26100.0\LexDesk Pro.deps.json">
+      <PackagePath>Web Studio Browser\LexDesk Pro.deps.json</PackagePath>
+      <Modified>2026-10-07T00:37:33.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\Web Studio Browser\Assets\adblock_hosts_starter.txt">
+      <PackagePath>Web Studio Browser\Assets\adblock_hosts_starter.txt</PackagePath>
+      <Modified>2026-02-26T06:10:00.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\Web Studio Browser\obj\x64\Release\net8.0-windows10.0.26100.0\apphost.exe">
+      <PackagePath>Web Studio Browser\LexDesk Pro.exe</PackagePath>
+      <Modified>2026-10-07T00:37:33.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\Web Studio Browser\bin\x64\Release\net8.0-windows10.0.26100.0\LexDesk Pro.runtimeconfig.json">
+      <PackagePath>Web Studio Browser\LexDesk Pro.runtimeconfig.json</PackagePath>
+      <Modified>2026-10-07T00:37:33.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mick_\Desktop\LexDesk Pro\Web Studio Browser\bin\x64\Release\net8.0-windows10.0.26100.0\LexDesk Pro.dll">
+      <PackagePath>Web Studio Browser\LexDesk Pro.dll</PackagePath>
+      <Modified>2026-10-07T00:37:33.074</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.UWPDesktop</Name>
+      <Version>14.0.33728.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.UWPDesktop, MinVersion = 14.0.33728.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.UWPDesktop</Name>
+      <Version>14.0.33728.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.UWPDesktop, MinVersion = 14.0.33728.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

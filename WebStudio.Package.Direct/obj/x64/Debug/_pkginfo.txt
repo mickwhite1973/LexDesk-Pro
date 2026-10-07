@@ -1,0 +1,1 @@
+C:\LexDeskProBuilds\Web\WebStudio.Package.Direct_1.0.0.0_x64_Debug_Test\WebStudio.Package.Direct_1.0.0.0_x64_Debug.msix

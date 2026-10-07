@@ -2,12 +2,13 @@
 
 	<PropertyGroup>
 		<OutputType>WinExe</OutputType>
-		<TargetFramework>net8.0-windows</TargetFramework>
+		<TargetFramework>net8.0-windows10.0.26100.0</TargetFramework>
+		<SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
 		<UseWPF>true</UseWPF>
 		<EnableWindowsTargeting>true</EnableWindowsTargeting>
 
 		<!-- EXE name -->
-		<AssemblyName>Web Studio Browser</AssemblyName>
+		<AssemblyName>LexDesk Pro</AssemblyName>
 
 		<!-- Namespace -->
 		<RootNamespace>Lex_White_Browser</RootNamespace>
@@ -15,25 +16,169 @@
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
 
+		<Version>0.1.0.0</Version>
+		<AssemblyVersion>0.1.0.0</AssemblyVersion>
+		<FileVersion>0.1.0.0</FileVersion>
+
 		<PublishReadyToRun>true</PublishReadyToRun>
 		<ReadyToRunUseCrossgen2>true</ReadyToRunUseCrossgen2>
 		<TieredCompilation>true</TieredCompilation>
 		<TieredPGO>true</TieredPGO>
+		
+		<Platforms>AnyCPU;x64</Platforms>
+		<PlatformTarget>x64</PlatformTarget>
+		<ApplicationIcon>favicon.ico</ApplicationIcon>
+		<ApplicationManifest>app.manifest</ApplicationManifest>
+		
 	</PropertyGroup>
 
 	<ItemGroup>
+	  <None Remove="Assets\Icons\back.png" />
+	  <None Remove="Assets\Icons\close.png" />
+	  <None Remove="Assets\Icons\compatibility1.png" />
+	  <None Remove="Assets\Icons\emergency.png" />
+	  <None Remove="Assets\Icons\favourites.png" />
+	  <None Remove="Assets\Icons\forward.png" />
+	  <None Remove="Assets\Icons\history.png" />
+	  <None Remove="Assets\Icons\info.png" />
+	  <None Remove="Assets\Icons\lexdeskproicon.png" />
+	  <None Remove="Assets\Icons\maximise.png" />
+	  <None Remove="Assets\Icons\minimise.png" />
+	  <None Remove="Assets\Icons\navigate.png" />
+	  <None Remove="Assets\Icons\new tab.png" />
+	  <None Remove="Assets\Icons\power.png" />
+	  <None Remove="Assets\Icons\printer1.png" />
+	  <None Remove="Assets\Icons\privacy.png" />
+	  <None Remove="Assets\Icons\refresh.png" />
+	  <None Remove="Assets\Icons\settings.png" />
+	  <None Remove="Assets\Icons\show startup screen.png" />
+	  <None Remove="Assets\Icons\snapback.png" />
+	  <None Remove="Assets\Icons\studio.png" />
+	  <None Remove="Assets\Icons\theme.png" />
+	  <None Remove="Assets\Icons\tick.png" />
+	  <None Remove="Assets\Icons\web actions.png" />
+	  <None Remove="Assets\Icons\web-protect-pro-logo.png" />
+	  <None Remove="Assets\web-protect-pro-logo.png" />
+	  <None Remove="Assets\Icons\explorer.png" />
+	  <None Remove="Assets\Icons\downloads.png" />
+	  <None Remove="Assets\Icons\notepad.png" />
+	  <None Remove="Assets\Icons\calculator.png" />
+	  <None Remove="Assets\Icons\desktop.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="CommunityToolkit.WinUI.Notifications" Version="7.1.2" />
 		<PackageReference Include="Microsoft.Web.WebView2" Version="1.0.3800.47" />
 		<PackageReference Include="System.Management" Version="10.0.3" />
 	</ItemGroup>
 
 	<ItemGroup>
+		
+				
+
 		<Content Include="Assets\adblock_hosts_starter.txt">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
 	</ItemGroup>
 
 	<ItemGroup>
-		<Folder Include="Assets\" />
+	  <Resource Include="Assets\Icons\back.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\close.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\compatibility1.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\emergency.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\favourites.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\forward.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\history.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\info.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\lexdeskproicon.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\maximise.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\minimise.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\navigate.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\new tab.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\power.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\printer1.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\privacy.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\refresh.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\settings.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\show startup screen.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\snapback.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\studio.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\theme.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\tick.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\web actions.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\Icons\web-protect-pro-logo.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="Assets\web-protect-pro-logo.png">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+		<Resource Include="Assets\Icons\explorer.png">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</Resource>
+
+		<Resource Include="Assets\Icons\downloads.png">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</Resource>
+
+		<Resource Include="Assets\Icons\notepad.png">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</Resource>
+
+		<Resource Include="Assets\Icons\calculator.png">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</Resource>
+
+		<Resource Include="Assets\Icons\desktop.png">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</Resource>
 	</ItemGroup>
 
 </Project>

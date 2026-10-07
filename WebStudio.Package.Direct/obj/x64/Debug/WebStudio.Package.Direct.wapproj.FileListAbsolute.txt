@@ -1,0 +1,43 @@
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\CommunityToolkit.WinUI.Notifications.dll
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\System.CodeDom.dll
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\System.Management.dll
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\Microsoft.Windows.SDK.NET.dll
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\WinRT.Runtime.dll
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\Microsoft.Web.WebView2.Core.dll
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\LexDesk Pro.deps.json
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\Assets\adblock_hosts_starter.txt
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\LexDesk Pro.exe
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\LexDesk Pro.runtimeconfig.json
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\LexDesk Pro.dll
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Web Studio Browser\LexDesk Pro.pdb
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\resources.pri
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\AppxManifest.xml
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\WebStudio.Package.Direct.build.appxrecipe
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\bin\x64\Debug\Microsoft.Web.WebView2.Core.winmd
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\WebStudio.Package.Direct.wapproj.AssemblyReference.cache
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\WebStudio.Package.Direct.wapproj.CoreCompileInputs.cache
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\WebStudi.1B4D39D3.Up2Date
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\priconfig.xml
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\resources.resfiles
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\pri.resfiles
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\qualifiers.txt
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package.Direct\obj\x64\Debug\WebStudio.Package.Direct.wapproj.LastBuild.txt

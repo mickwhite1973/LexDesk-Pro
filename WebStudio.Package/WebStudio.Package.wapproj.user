@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\mick_\Desktop\Icons\lexdeskproicon.png</Source>
+    <SmallTileSource>C:\Users\mick_\Desktop\Icons\lexdeskproicon.png</SmallTileSource>
+    <MediumTileSource>C:\Users\mick_\Desktop\Icons\lexdeskproicon.png</MediumTileSource>
+    <WideTileSource>C:\Users\mick_\Desktop\Icons\lexdeskproicon.png</WideTileSource>
+    <LargeTileSource>C:\Users\mick_\Desktop\Icons\lexdeskproicon.png</LargeTileSource>
+    <AppIconSource>C:\Users\mick_\Desktop\Lex And White Studios\WPP-Official-Logo-Assets\App\web-privacy-pro-mark-512.png</AppIconSource>
+    <SplashScreenSource>C:\Users\mick_\Desktop\Icons\lexdeskproicon.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\mick_\Desktop\Icons\lexdeskproicon.png</PackageLogoSource>
+    <BadgeLogoSource>C:\Users\mick_\Desktop\WebStudio_resized.png</BadgeLogoSource>
+    <UapAppxPackageBuildMode>StoreAndSideload</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+</Project>

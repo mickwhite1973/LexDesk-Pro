@@ -1,0 +1,72 @@
+C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\build\..\runtimes\win-x64\native_uap\Microsoft.Web.WebView2.Core.dll
+C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\lib\Microsoft.Web.WebView2.Core.winmd
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\LargeTile.scale-100.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\LargeTile.scale-125.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\LargeTile.scale-150.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\LargeTile.scale-200.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\LargeTile.scale-400.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SmallTile.scale-100.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SmallTile.scale-125.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SmallTile.scale-150.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SmallTile.scale-200.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SmallTile.scale-400.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SplashScreen.scale-100.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SplashScreen.scale-125.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SplashScreen.scale-150.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SplashScreen.scale-200.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\SplashScreen.scale-400.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square150x150Logo.scale-100.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square150x150Logo.scale-125.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square150x150Logo.scale-150.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square150x150Logo.scale-200.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square150x150Logo.scale-400.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-16.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-24.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-256.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-32.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-lightunplated_targetsize-48.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-unplated_targetsize-16.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-unplated_targetsize-256.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-unplated_targetsize-32.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.altform-unplated_targetsize-48.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.scale-100.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.scale-125.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.scale-150.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.scale-200.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.scale-400.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.targetsize-16.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.targetsize-24.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.targetsize-256.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.targetsize-32.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Square44x44Logo.targetsize-48.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\StoreLogo.scale-100.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\StoreLogo.scale-125.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\StoreLogo.scale-150.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\StoreLogo.scale-200.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\StoreLogo.scale-400.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Wide310x150Logo.scale-100.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Wide310x150Logo.scale-125.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Wide310x150Logo.scale-150.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Wide310x150Logo.scale-200.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\Images\Wide310x150Logo.scale-400.png
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\WebStudio.ico
+C:\Users\mick_\Desktop\LexDesk Pro\WebStudio.Package\bin\x64\Release\resources.pri
+C:\Users\mick_\.nuget\packages\communitytoolkit.winui.notifications\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.Notifications.dll
+C:\Users\mick_\.nuget\packages\system.codedom\10.0.3\lib\net8.0\System.CodeDom.dll
+C:\Users\mick_\.nuget\packages\system.management\10.0.3\lib\net8.0\System.Management.dll
+C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\mick_\.nuget\packages\system.management\10.0.3\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\mick_\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.26100.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\mick_\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.26100.57\lib\net8.0\WinRT.Runtime.dll
+C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\lib_manual\netcoreapp3.0\Microsoft.Web.WebView2.Core.dll
+C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\lib_manual\netcoreapp3.0\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\mick_\.nuget\packages\microsoft.web.webview2\1.0.3800.47\lib_manual\net5.0-windows10.0.17763.0\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\mick_\Desktop\LexDesk Pro\Web Studio Browser\bin\x64\Release\net8.0-windows10.0.26100.0\LexDesk Pro.deps.json
+C:\Users\mick_\Desktop\LexDesk Pro\Web Studio Browser\Assets\adblock_hosts_starter.txt
+C:\Users\mick_\Desktop\LexDesk Pro\Web Studio Browser\obj\x64\Release\net8.0-windows10.0.26100.0\apphost.exe
+C:\Users\mick_\Desktop\LexDesk Pro\Web Studio Browser\bin\x64\Release\net8.0-windows10.0.26100.0\LexDesk Pro.runtimeconfig.json
+C:\Users\mick_\Desktop\LexDesk Pro\Web Studio Browser\bin\x64\Release\net8.0-windows10.0.26100.0\LexDesk Pro.dll
+C:\Users\mick_\Desktop\LexDesk Pro\Web Studio Browser\bin\x64\Release\net8.0-windows10.0.26100.0\LexDesk Pro.pdb
